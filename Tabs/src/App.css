@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.activebtn{
+  color: white;
+  padding: 15px;
+  font-size: 15px;
+  background-color: blue;
+  border: none;
+}
+
+.inactivebtn{
+  color: black;
+  font-size: 15px;
+  border: black;
+  padding: 15px;
+}
